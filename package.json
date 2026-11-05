@@ -1,0 +1,15 @@
+{
+  "name": "file-uploads-and-downloads",
+  "version": "1.0.0",
+  "description": "file uploadind and downloading",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Budwell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-fileupload": "^1.5.2"
+  }
+}
